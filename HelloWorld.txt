@@ -1,2 +1,4 @@
 Hi!
 My first file here..
+
+Today is Thursday.
